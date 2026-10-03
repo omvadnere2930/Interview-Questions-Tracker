@@ -1,0 +1,23 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "title": "What is Virtual DOM?",
+      "category": "React JS",
+      "difficulty": "Medium",
+      "status": "To Revise",
+      "lastPracticed": "2026-09-18",
+      "notes": "React compares virtual DOM with previous state before updating real DOM."
+    },
+    {
+      "id": 2,
+      "title": "Explain useState with example",
+      "category": "React JS",
+      "difficulty": "Easy",
+      "status": "Solved",
+      "lastPracticed": "2026-09-21",
+      "notes": "Used to manage local component state."
+    }
+  ]
+}
+
